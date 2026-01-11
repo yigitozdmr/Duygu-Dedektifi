@@ -1,0 +1,14 @@
+# Sanal ortam klasörü
+venv/
+env/
+
+# Python derleme dosyaları
+__pycache__/
+*.pyc
+
+# IDE dosyaları (VS Code vb.)
+.vscode/
+.idea/
+
+# Büyük veri setleri (Opsiyonel: Eğer veri setin çok büyükse buraya eklenir, ama şimdilik kalsın)
+# *.csv
